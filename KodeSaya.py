@@ -1,0 +1,2 @@
+listbelanja = ['Apel', 'Roti', 'Minum']
+
