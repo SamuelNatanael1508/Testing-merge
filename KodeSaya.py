@@ -1,2 +1,2 @@
-listbelanja = ['Apel', 'Roti', 'Minum']
+listbelanja = ['Apel', 'Roti', 'Coca Cola']
 
