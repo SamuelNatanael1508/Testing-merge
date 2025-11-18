@@ -1,1 +1,1 @@
-listbelanja = ['Apel', 'Keju', 'Minum']
+variable = x
